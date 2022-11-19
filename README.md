@@ -5,7 +5,7 @@ Svg icons can found through [https://simpleicons.org] and is created using [http
 <h1 align="center">Hello, I'm Anthony!</h1>
 
 <!-- Intro -->
- - 🎓 Recent computer science graduate from Ontario Tech University
+ - 🎓 I am a recent computer science graduate from Ontario Tech University
  - 🔭 I’m currently working on an app that utilizes Spring Boot microservices
  - 🌱 I’m currently learning Spring Boot, Sass, and Next.js
  - 👯 I'm looking to collab on a small indie game
@@ -31,9 +31,9 @@ Svg icons can found through [https://simpleicons.org] and is created using [http
     <img alt="Python" src="https://img.shields.io/badge/Python-ffd343?style=for-the-badge&logo=python"/>
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-333?style=for-the-badge&logo=JavaScript"/>
     <img alt="Java" src="https://img.shields.io/badge/Java-D0A384?style=for-the-badge&logo=Java"/>
+    <img alt="Dart" src="https://img.shields.io/badge/Dart-00599C?style=for-the-badge&logo=Dart"/>
     <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B"/>
     <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C"/>
-    <img alt="Dart" src="https://img.shields.io/badge/Dart-00599C?style=for-the-badge&logo=Dart"/>
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-DDDDDD?style=for-the-badge&logo=HTML5"/>
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3"/>
 </div>
