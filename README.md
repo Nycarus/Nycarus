@@ -32,6 +32,7 @@ Svg icons can found through [https://simpleicons.org] and is created using [http
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-333?style=for-the-badge&logo=JavaScript"/>
     <img alt="Java" src="https://img.shields.io/badge/Java-D0A384?style=for-the-badge&logo=Java"/>
     <img alt="Dart" src="https://img.shields.io/badge/Dart-00599C?style=for-the-badge&logo=Dart"/>
+    <img alt="C Sharp" src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=C Sharp"/>
     <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B"/>
     <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C"/>
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-DDDDDD?style=for-the-badge&logo=HTML5"/>
@@ -43,7 +44,8 @@ Svg icons can found through [https://simpleicons.org] and is created using [http
 <div align="center">
     <img alt="React" src="https://img.shields.io/badge/React-0059ae?style=for-the-badge&logo=react"/>
     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter"/>
-    <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=Gatsby"/>
+    <img alt=".NET" src="https://img.shields.io/badge/React-512BD4?style=for-the-badge&logo=react"/>
+    <img alt="Gatsby" src="https://img.shields.io/badge/.NET-663399?style=for-the-badge&logo=.NET"/>
     <img alt="Node.js" src="https://img.shields.io/badge/Node.js-333?style=for-the-badge&logo=Node.js"/>
     <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express"/>
     <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL"/>
