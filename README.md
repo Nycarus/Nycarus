@@ -7,8 +7,6 @@ Svg icons can found through [https://simpleicons.org] and is created using [http
 <!-- Intro -->
  - 🎓 I am a recent computer science graduate from Ontario Tech University
  - 🔭 I’m currently working on an app that utilizes Spring Boot microservices
- - 🌱 I’m currently learning Spring Boot, Sass, and Next.js
- - 👯 I'm looking to collab on a small indie game
  - 📫 You can reach me via Linkedin or Email
 
 <!-- Contacts -->
